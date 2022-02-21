@@ -7,6 +7,7 @@ A microwave oven is a relatively small, boxlike oven that raises the temperature
 
 
 
+
      •Microwave frequency of 2450 MHz (a wavelength of 12.24 cm).
      •Most molecules are electric dipoles, meaning that they have a positive charge at one end and a negative charge at the other.
      •Water, fat and sugar molecules in the food absorb energy from the microwaves in a process called dielectric heating.
@@ -23,10 +24,10 @@ Block Diagram:
 Controller :
 
 
-         •It control the times of cooking by turning the microwave energy on and off.
+                   •It control the times of cooking by turning the microwave energy on and off.
          
-         •Power level is determined by the duty cycle. The controller runs the digital clock and timer,
-          sets microwave power levels and runs the display.
+                   •Power level is determined by the duty cycle. The controller runs the digital clock and timer,
+                     sets microwave power levels and runs the display.
           
           
           
@@ -62,6 +63,10 @@ Front Panel Display:
                     •7-segment LED display,cooking time, temperature ,displaying the remaining time.
                     
                     
+                    
+                    
+                    
+                    
 Cooking Chamber:
 
 
@@ -77,8 +82,10 @@ Cooking Chamber:
 Cooling fans:
              
              
-             •To evoporate heat
-             
+                   •To evoporate heat
+            
+            
+            
              
              
              
@@ -86,7 +93,8 @@ Cooling fans:
 Buzzer:
 
 
-      •Buzzer is used for alerting the user at the completion of the cooking process.
+                   •Buzzer is used for alerting the user at the completion of the cooking process.
+      
       
       
       
@@ -95,7 +103,8 @@ Buzzer:
 Low Voltage Power Supply Unit:
 
 
-      •A low voltage power supply unit supplies power to all electronic circuits, fans and motors.
+                  •A low voltage power supply unit supplies power to all electronic circuits, fans and motors.
+      
       
       
       
@@ -104,8 +113,8 @@ Low Voltage Power Supply Unit:
 Advantages of microwave cooking:
 
 
-                           • Excellent quality of food
-                           • Enhances color and texture of food.
-                           • Cooking requires minimum quantity of water in retaining most of the nutrients.
-                           • Time required for cooking is veryless
-                           • Preserves natural Flavor of the food.
+                    • Excellent quality of food
+                    • Enhances color and texture of food.
+                    • Cooking requires minimum quantity of water in retaining most of the nutrients.
+                    • Time required for cooking is veryless
+                    • Preserves natural Flavor of the food.

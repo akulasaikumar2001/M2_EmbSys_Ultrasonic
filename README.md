@@ -1,1 +1,2 @@
-# M2_EmbSys_Ultrasonic
+# M2_EmbSys
+M2 Project
